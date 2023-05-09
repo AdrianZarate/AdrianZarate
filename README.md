@@ -1,6 +1,6 @@
-<h1 align="center">Hola! soy Alex Adrian Ruiz Zarate</h1>
+<h1 align="center">Hola! mi nombre es Alex Adrian Ruiz Zarate</h1>
 <h3>¿Quién soy? </h3>
-<p>Soy estudiante de ingeniería de sistemas en la Universidad de Investigación, cursando cuarto semestre y soy Desarrollador Full Stack.</p>
+<p>Soy estudiante de ingeniería de sistemas en la Universidad de Investigación y Desarrollo, cursando cuarto semestre y soy Desarrollador Full Stack.</p>
 
 
 <h3 align="left">Habilidades</h3>
