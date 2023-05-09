@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Alex Adrian Ruiz Zarate</h1>
+<h1 align="center">Hola! soy Alex Adrian Ruiz Zarate</h1>
 <h3 align="center">Desarrollador Full Stack con experiencia en Node.js, PostgreSQL, React, Express ,Javascript, Sequelize, Redux, CSS, HTML.</h3>
 
 <h3 align="left">Connect with me:</h3>
