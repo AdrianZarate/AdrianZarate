@@ -21,11 +21,12 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdrianZarate&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdrianZarate&theme=dark&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)  
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianZarate&show_icons=true&theme=radical)
+  
 </div>  
 
