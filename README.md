@@ -1,7 +1,7 @@
 <h1 align="center">Hola! me llamo Alex Adrian Ruiz Zarate</h1>
 
 ## Acerca de mí
-- 🎓 Esstudiante de Ing. en sistemas.
+- 🎓 Estudiante de Ing. en sistemas.
 - 💻 Programador full stack con experiencia en tecnologías web.
 - 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, CSS y HTML.
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
