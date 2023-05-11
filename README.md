@@ -1,8 +1,11 @@
 <h1 align="center">Hola! me llamo Alex Adrian Ruiz Zarate</h1>
 
-## ¿Quién soy? 
-<p>Soy estudiante de ingeniería de sistemas en la Universidad de Investigación y Desarrollo, cursando cuarto semestre y soy Desarrollador Full Stack.</p>
-
+## Acerca de mí
+- 🎓 Esstudiante de Ing. en sistemas.
+- 💻 Programador full stack con experiencia en tecnologías web.
+- 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, CSS y HTML.
+- 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
+- 📊 Familiarizado con la metodología ágil de Scrum.
 <br/>
 
 ## Lenguajes y herramientas
