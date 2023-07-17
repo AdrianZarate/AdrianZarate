@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 - 🎓 Estudiante de Ing. en sistemas.
-- 💻 Programador full stack con experiencia en tecnologías web.
+- 💻 Programador full stack con conocimiento en tecnologías web.
 - 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, CSS y HTML.
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
 - 📊 Familiarizado con la metodología ágil de Scrum.
