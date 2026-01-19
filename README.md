@@ -23,7 +23,7 @@
 </a>  
 </div>  
 
-## Github Stats  
+<!-- ## Github Stats  
 
 <br/>  
 
@@ -31,5 +31,6 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianZarate&show_icons=true&theme=radical)
   
-</div>  
+</div>  -->
+
 
